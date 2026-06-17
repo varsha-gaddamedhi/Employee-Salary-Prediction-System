@@ -314,21 +314,17 @@ Models were evaluated using:
 
 ```text
 
-Employee\_Salary/
+Employee_Salary/
 
-
-
-├── EMP\_SAL.ipynb
-
-├── employee\_salary.csv
-
-├── salary\_model.pkl
-
-├── Salary\_predictor.py
-
+├── Employee_Salary_Prediction.ipynb
+├── employee_salary.csv
+├── Salary_prediction.py
 ├── README.md
-
-└── screenshots/
+├── Requirements.txt
+├── Dataset.png
+├── heatmap.png
+├── model_r2score.png
+└── other project screenshots
 
 ```
 
@@ -340,6 +336,11 @@ Employee\_Salary/
 
 ###### \## 🚀 How to Run the Project
 
+## 📌 Note
+
+The trained model file (`salary_model.pkl`) is not included in this repository.
+
+To generate the model file, run all cells in `Employee_Salary_Prediction.ipynb`. The notebook will train the model and save the trained model for salary prediction.
 
 
 \### Step 1: Install Dependencies
