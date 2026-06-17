@@ -509,7 +509,7 @@ Example:
 
 ```md
 
-!\[Heatmap](screenshots/heatmap.png)
+![Heatmap](heatmap.png)
 
 ```
 
@@ -535,7 +535,7 @@ Employee Salary Prediction System
 
 
 
-Infobharat Interns (IBI)
+Info Bharat Interns (IBI)
 
 
 
